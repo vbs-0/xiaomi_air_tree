@@ -1,0 +1,2 @@
+air-device-tree/device/xiaomi/air/prebuilt/*.img filter=lfs diff=lfs merge=lfs -text
+air-device-tree/device/xiaomi/air/prebuilt/Image filter=lfs diff=lfs merge=lfs -text
